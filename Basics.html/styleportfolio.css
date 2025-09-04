@@ -1,0 +1,45 @@
+h1{
+    text-align: center;
+    color: rgb(164, 197, 235);
+    background-color: rgb(33, 55, 86);
+    font-size: bold;
+    display: block;
+    position: fixed;
+    box-shadow: inset;
+}
+h2{
+    padding: 10px 20px;
+}
+ #main{
+   padding: 25px 40px ;
+   font-size: 30px ;
+   font-style: italic;
+
+}
+*{
+    margin: 0;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: rgb(11, 84, 104);
+    color: thistle;
+    
+}
+.table{
+    border: 2px solid white;
+
+}
+#skills{
+    font-size: 30px;
+    font-display: normal;
+}
+.intro{
+    padding: 40px;
+}
+#first{
+    border: 2px dotted rgb(184, 222, 239);
+}
+h6{
+    text-align: right; 
+    font-size: 15px;
+    font-display: line-through;
+}

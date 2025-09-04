@@ -1,0 +1,40 @@
+h1 {
+    font-size: bold;
+    margin: 0 auto;
+    text-align: center;
+    padding: auto;
+    border: 2px solid rgb(240, 244, 245);
+}
+h3 {
+    padding: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px
+}
+.grey {
+   font-style: oblique;
+   display: inline-block; 
+  
+}
+h2 {
+    font-size: bold; 
+    margin: 10px 20px;
+    text-align: left;
+    padding: auto;
+}
+.main {
+    color: white;
+    font-size: 20px;
+    font-style: italic ;
+    padding: auto;
+    margin: o auto;
+    text-align: left;
+    font-weight: normal
+}
+* {
+    background-color: rgb(10, 74, 99);
+    color: white;
+    padding: auto;
+}
+.menu{
+    position: fixed;
+}    
