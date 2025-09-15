@@ -1,14 +1,18 @@
 h1{
     text-align: center;
-    color: rgb(164, 197, 235);
+    color: rgb(228, 235, 243);
     background-color: rgb(33, 55, 86);
-    font-size: bold;
-    display: block;
+    font-weight: bold;
+     display: inline-block;
     position: fixed;
-    box-shadow: rgb(195, 223, 235) 60px -16px;
+    
+    box-shadow: rgb(9, 54, 73) -10px 8px;
+   
 }
+
 h2{
-    padding: 10px 20px;
+    padding: 70px 20px;
+
 }
  #main{
    padding: 25px 40px ;

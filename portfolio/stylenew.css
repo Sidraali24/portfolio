@@ -1,0 +1,95 @@
+body{
+    background-color: rgb(60, 95, 107);
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color: rgb(5, 101, 157);
+    text-align: center;
+    padding: auto;
+    text-box: center;
+}
+h3{
+    color: rgb(5, 101, 157);
+    text-align: center;
+    padding-bottom: 80px;
+    text-box: center;
+    font-size: 30px;    
+}
+.div1{
+    padding-left: 10px;
+    margin-right: 60px;
+    margin-left: 60px;
+    height: 250px;
+    width: 250px;
+    background-color: rgb(71, 214, 239);
+    color: rgb(5, 101, 157);
+    text-align: center;
+    padding: 20px;
+    text-decoration: none;
+    box-shadow: rgb(68, 78, 79) -10px 8px;
+    border-radius: 5px;
+}
+.div2{
+    padding-left: 10px;
+    margin-right: 60px;
+    height: 250px;
+    width: 250px;
+    background-color: rgb(71, 214, 239);
+    color: rgb(5, 101, 157);
+    text-align: center;
+    padding: 20px;
+    text-decoration: none;
+    box-shadow: rgb(68, 78, 79) -10px 8px;
+    border-radius: 5px;
+}
+.div3{
+    padding-left: 10px;
+    margin-right: 60px;
+    height: 250px;
+    width: 250px;
+    background-color: rgb(71, 214, 239);
+    color: rgb(5, 101, 157);
+    text-align: center;
+    padding: 20px;
+    text-decoration: none;
+    box-shadow: rgb(68, 78, 79) -10px 8px;
+    border-radius: 5px;
+}
+.div4{
+    padding-right: 25px;
+    margin-right: 60px;
+    height: 250px;
+    width: 250px;
+    background-color: rgb(71, 214, 239);
+    color: rgb(5, 101, 157); 
+    text-align: center;
+    padding: 20px;
+    text-decoration: none;
+    box-shadow: rgb(68, 78, 79) -10px 8px;
+    border-radius: 5px;
+}
+.container1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   /* gap: 20px;*/
+    padding: 15px;
+}
+
+.img1, .img2, .img3, .img4{
+    border-radius: 50%;
+    align-items: center;
+    border: 2px solid rgb(0, 0, 0);
+}
+.head{
+    width: 100%;
+    font-style: italic;
+    font-size: 50px;
+    text-align: center;
+    color: rgb(179, 218, 240);
+    background-color: rgb(1, 44, 59);
+    padding-bottom: 200px;
+}
